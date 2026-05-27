@@ -14,4 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhuhuni)
+# Hi there, I'm huhuhuni 👋
+
+> Backend Developer · AI Agent Builder · Open Source Enthusiast
+
+## About Me
+
+- 🔭 Currently working on **LossJob-Skill** — an AI skill that helps people navigate layoffs (legal rights + emotional support)
+- 🤖 Exploring **AI Agent** development with Claude Code & OpenClaw
+- 🌱 Always learning — from Java internals to Rust to fuzzing
+- 💼 3 years of experience in B2B backend development
+- 🎯 Focused on building things that actually help people
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white "preview")
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white "preview")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black "preview")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white "preview")
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white "preview")
+
+## Featured Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [LossJob-Skill](https://github.com/huhuhuni/LossJob-Skill) | AI skill for layoff support — legal rights calculator + emotional guidance. Works with Claude Code & OpenClaw. | — |
+| [ai-desk-pet](https://github.com/huhuhuni/ai-desk-pet) | AI-powered desktop pet | — |
+| [S_RPC](https://github.com/huhuhuni/S_RPC) | A simple Java RPC framework built from scratch | ⭐ 1 |
+| [refuse_classification](https://github.com/huhuhuni/refuse_classification) | Garbage Sorting Service Platform (Spring Boot + MyBatis Plus) | ⭐ 3 |
+| [simpleClaw](https://github.com/huhuhuni/simpleClaw) | Lightweight web tool | ⭐ 31 |
+| [MusicDownloader](https://github.com/huhuhuni/MusicDownloader) | MP3 downloader for NetEase Music (Python 3) | ⭐ 1 |
+| [guess_number_game](https://github.com/huhuhuni/guess_number_game) | My first Rust project — a CLI number guessing game | — |
+
+## Stats
+
+![huhuhuni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huhuhuni&show_icons=true&theme=default&hide_border=true "preview")
+
+---
+
+📫 **Reach me:** huhuhuni@yeah.net
