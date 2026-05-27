@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [LossJob-Skill](https://github.com/huhuhuni/LossJob-Skill) | AI skill for layoff support — legal rights calculator + emotional guidance. Works with Claude Code & OpenClaw. | — |
-| [ai-desk-pet](https://github.com/huhuhuni/ai-desk-pet) | AI-powered desktop pet | — |
-| [S_RPC](https://github.com/huhuhuni/S_RPC) | A simple Java RPC framework built from scratch | ⭐ 1 |
-| [refuse_classification](https://github.com/huhuhuni/refuse_classification) | Garbage Sorting Service Platform (Spring Boot + MyBatis Plus) | ⭐ 3 |
-| [simpleClaw](https://github.com/huhuhuni/simpleClaw) | Lightweight web tool | ⭐ 31 |
-| [MusicDownloader](https://github.com/huhuhuni/MusicDownloader) | MP3 downloader for NetEase Music (Python 3) | ⭐ 1 |
-| [guess_number_game](https://github.com/huhuhuni/guess_number_game) | My first Rust project — a CLI number guessing game | — |
+| Project | Description | 
+|---------|-------------|
+| [LossJob-Skill](https://github.com/huhuhuni/LossJob-Skill) | AI skill for layoff support — legal rights calculator + emotional guidance. Works with Claude Code & OpenClaw. |
+| [ai-desk-pet](https://github.com/huhuhuni/ai-desk-pet) | AI-powered desktop pet |
+| [S_RPC](https://github.com/huhuhuni/S_RPC) | A simple Java RPC framework built from scratch | 
+| [refuse_classification](https://github.com/huhuhuni/refuse_classification) | Garbage Sorting Service Platform (Spring Boot + MyBatis Plus) | 
+| [simpleClaw](https://github.com/huhuhuni/simpleClaw) | Lightweight web tool | 
+| [MusicDownloader](https://github.com/huhuhuni/MusicDownloader) | MP3 downloader for NetEase Music (Python 3) | 
+| [guess_number_game](https://github.com/huhuhuni/guess_number_game) | My first Rust project — a CLI number guessing game | 
 
 ## Stats
 
