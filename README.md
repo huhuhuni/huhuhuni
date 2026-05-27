@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on **LossJob-Skill** — an AI skill that helps people navigate layoffs (legal rights + emotional support)
 - 🤖 Exploring **AI Agent** development with Claude Code & OpenClaw
 - 🌱 Always learning — from Java internals to Rust to fuzzing
-- 💼 3 years of experience in B2B backend development
+- 💼 3 years of experience in O2O backend development
 - 🎯 Focused on building things that actually help people
 
 ## Tech Stack
